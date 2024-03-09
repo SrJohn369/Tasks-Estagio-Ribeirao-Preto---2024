@@ -20,7 +20,7 @@ imprimir(SOMA);
 
 Ao final do processamento, qual será o valor da variável SOMA?  
 Resposta = 91;  
-SOLUÇÃO: [task_1]()  
+SOLUÇÃO: [task_1](https://github.com/SrJohn369/Tasks-Estagio-Ribeirao-Preto---2024/blob/main/task_1.py)  
 
 ---
 ## Task 2
@@ -29,7 +29,7 @@ Dado a sequência de Fibonacci, onde se inicia por 0 e 1 e o próximo valor semp
 IMPORTANTE:  
 Esse número pode ser informado através de qualquer entrada de sua preferência ou pode ser previamente definido no código;  
 
-SOLUÇÃO: [task_2]()  
+SOLUÇÃO: [task_2](https://github.com/SrJohn369/Tasks-Estagio-Ribeirao-Preto---2024/blob/main/task_2.py)  
 
 ---
 ## Task 3
@@ -38,4 +38,4 @@ IMPORTANTE:
 Essa string pode ser informada através de qualquer entrada de sua preferência ou pode ser previamente definida no código;  
 Evite usar funções prontas, como, por exemplo, reverse;  
 
-SOLUÇÃO: [task_3]()  
+SOLUÇÃO: [task_3](https://github.com/SrJohn369/Tasks-Estagio-Ribeirao-Preto---2024/blob/main/task_3.py)  
